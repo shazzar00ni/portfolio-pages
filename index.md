@@ -2,7 +2,7 @@
 Shannon Lockett: Welcome to my portfolio pages/docs
 ---
 
-1. Readme README.md
+1. Readme "README.md"
 2. License
 3. Security
 4. Code of Conduct
