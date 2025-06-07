@@ -1,5 +1,5 @@
 ---
-Shannon Lockett: Welcome to my portfolio pages/docs
+title: Welcome to my portfolio pages/docs
 ---
 
 1. Readme "README.md"
